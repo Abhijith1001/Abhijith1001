@@ -26,9 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/abhijithb39067"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abhijithb39067" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijith1001&show_icons=true&locale=en&layout=compact" alt="abhijith1001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijith1001&show_icons=true&locale=en" alt="abhijith1001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijith1001&" alt="abhijith1001" /></p>
 
