@@ -1,34 +1,355 @@
-<h1 align="center">Hi 👋, I'm Abhijith B</h1>
+ProfileMe.dev
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijith1001&label=Profile%20views&color=0e75b6&style=flat" alt="abhijith1001" /> </p>
+Introduction
+Skills
+Socials
+Badges
+Support
+Go home
+© 2026 Dan Cranney
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijith1001" alt="abhijith1001" /></a> </p>
+Follow me
+|
+Buy Me a Coffee
+Skills
+Show off the languages, frameworks, software and tech that you use.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+Previous
 
-- 🌱 I’m currently learning **React**
+Next
+Search for skills (e.g., React, Python, Docker...)
+Search
+Selected Skills: 30
+Clear All
+💻
+Core
 
-- 📫 How to reach me **babhijith335@gmail.com**
+C
 
-<h3 align="left">Connect with me:</h3>
+C++
+
+C#
+
+Spring Boot
+
+Coffeescript
+
+Dart
+
+Git
+
+Go
+
+Java
+
+JavaScript
+
+Kotlin
+
+Lua
+
+Perl
+
+PHP
+
+Python
+
+rlang
+
+Ruby
+
+Rust
+
+Swift
+
+TypeScript
+💻
+Scripting
+
+GNU Bash
+💻
+Code Editors
+
+VS Code
+
+Vim
+
+Neovim
+
+Emacs
+
+Sublime Text
+
+XCode
+💻
+Frontend
+
+HTML5
+
+React
+
+NextJs
+
+Vue
+
+Nuxtjs
+
+Gatsby
+
+Angular
+
+JQuery
+
+CSS3
+
+Sass
+
+TailwindCSS
+
+Chakra UI
+
+Bootstrap
+
+Material UI
+
+Redux
+
+Webpack
+
+Babel
+
+Svelte
+
+Servomon
+
+Vite
+
+Remix
+
+Ember.js
+
+Astro
+
+Qwik
+
+SolidJS
+
+Shadcn/ui
+💻
+Backend and Database
+
+NodeJS
+
+Express
+
+Fast API
+
+GraphQL
+
+Oracle
+
+NestJS
+
+MongoDB
+
+MySQL
+
+PostgreSQL
+
+Firebase
+
+Appwrite
+
+Heroku
+
+Flask
+
+Render
+
+Supabase
+
+PlanetScale
+
+Clerk
+
+Resend
+💻
+Software
+
+Photoshop
+
+Illustrator
+
+After Effects
+
+Premiere Pro
+
+XD
+
+Figma
+
+Sketch
+💻
+Web3
+
+Uniswap
+
+AAVE
+
+Sushiswap
+
+MetaMask
+
+Argent
+
+Nansen
+
+Chainlink
+
+The Graph
+
+Ethers
+
+Web3Js
+
+Alchemy
+
+Hardhat
+
+Truffle
+
+IPFS
+
+Filebase
+
+Arweave
+
+Ethereum
+
+Polygon
+
+Arbitrum
+
+Avalanche
+
+Near
+
+Flow
+
+Solana
+
+Terra
+💻
+Cloud
+
+Google Cloud
+
+Microsoft Azure
+💻
+CMS
+
+Wordpress
+
+Framer
+
+Squarespace
+
+Wix
+
+Webflow
+💻
+Embedded
+
+Arduino
+
+Raspberry Pi
+
+Yocto Project
+💻
+Operating Systems
+
+Linux
+
+MacOS
+
+Fedora
+
+Ubuntu
+💻
+Other
+
+.NET
+
+Django
+
+Laravel
+
+Flutter
+
+Amazon Web Services
+
+Blender
+
+Digital Ocean
+
+Docker
+
+Kubernetes
+
+PyTorch
+
+TensorFlow
+
+Hugging Face
+
+Previous
+
+Next
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhijith B
+===================================================================================================================================
+
+Full stack developer
+--------------------
+
+Full-stack engineer focused on microservices, multi-tenant SaaS, and scalable cloud systems.
+
+I design API-first architectures with tenant isolation, async queues, and database-per-tenant models.
+
+Backend: Node.js, Express, MongoDB, Docker, API gateways, auth, CI/CD, observability
+
+Frontend: React,Next.js, responsive UI, reusable component systems
+
+I build production-ready systems with strong emphasis on scalability, security, and clean modular design—from idea → architecture → deployment.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Portfolio](http://abhijithb-portfolio.netlify.app/)
+* ✉️  You can contact me at [abhijiithb@gmail.com](mailto:abhijiithb@gmail.com)
+* 🧠  I'm currently learning Next.js with typescript and Microservices
+* 👥  I'm looking to collaborate on Saas platform
+
 <p align="left">
-<a href="https://www.linkedin.com/in/abhijith-b-39b156225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijith" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abhijith.b.948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhijith" height="30" width="40" /></a>
-<a href="https://www.instagram.com/le_fer_adicto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijith b" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+### Socials
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/abhijithb39067"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abhijithb39067" /></a></p><br><br>
+<p align="left"> <a href="https://www.github.com/abhijith1001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/abhijith-b-39b156225" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/abhijith1001" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/abhijith1001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-<br>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/abhijith1001"><img src="https://github-readme-stats.vercel.app/api?username=abhijith1001&show_icons=true&hide=stars,&count_private=true&title_color=facc15&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhijith1001's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijith1001&" alt="abhijith1001" /></p>
+<a href="http://www.github.com/abhijith1001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijith1001&stroke=84cc16&background=1c1917&ring=facc15&fire=facc15&currStreakNum=84cc16&currStreakLabel=facc15&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
+<a href="https://github.com/abhijith1001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith1001&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-this si my github readmedesign i dont like it makeit atrative nd intresting with thresedetilsnd addn details also please
+ProfileMe.dev | Create an amazing GitHub profile in minutes
